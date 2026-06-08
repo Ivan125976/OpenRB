@@ -1,2 +1,6 @@
 # OpenRB
-OpenRB (Open Robot Boot) is an assembly-language system for robots capable of launching the RogerHubEngine. It is a high-performance system.
+## The best high-speed system for launching RogerHubEngine.
+---
+### What is this? :star:
+This is an operating system written in assembly language, created for the AArch64 processor architecture.
+
